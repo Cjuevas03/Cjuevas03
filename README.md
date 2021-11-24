@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="github.com/Cjuevas03" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github.com/Cjuevas03]
-[<img align="left" alt="www.linkedin.com/in/devjcuevas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/devjcuevas]
-[<img align="left" alt="twitter.com/DevJcuevas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter.com/DevJcuevas]
+[<img align="left" alt="github.com/Cjuevas03" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="www.linkedin.com/in/devjcuevas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="twitter.com/DevJcuevas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 
 <br />
 
