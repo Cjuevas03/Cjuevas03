@@ -4,7 +4,7 @@
 - I’m currently working on a League Builder, called ArcaneBuilds!
 - I’m currently learning node.js!
 - I’m looking to collaborate with other fellow nerds!
-- 2022 Goals: Be able to live comfortably 🥅
+- 2022 Goals: Be able to live comfortably!
 - ⚡ Fun fact: I love gaming, reading manga, and drinking beer!
 
 ### Connect with me:
