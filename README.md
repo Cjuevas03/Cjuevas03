@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="github.com/Cjuevas03" width="22px" src="github.com/Cjuevas03" />
-<img align="left" alt="www.linkedin.com/in/devjcuevas" width="22px" src="www.linkedin.com/in/devjcuevas" />
-<img align="left" alt="twitter.com/DevJcuevas" width="22px" src="twitter.com/DevJcuevas" />
+github.com/Cjuevas03
+www.linkedin.com/in/devjcuevas
+twitter.com/DevJcuevas
 
 <br />
 
