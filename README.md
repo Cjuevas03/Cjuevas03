@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-github.com/Cjuevas03
+www.github.com/Cjuevas03
 www.linkedin.com/in/devjcuevas
-twitter.com/DevJcuevas
+www.twitter.com/DevJcuevas
 
 <br />
 
